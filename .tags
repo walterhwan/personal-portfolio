@@ -1924,3 +1924,23 @@ header h1	/Users/walter/Documents/Programing/AppAcademy/portfolio/assets/css/hea
 .nav-ul	/Users/walter/Documents/Programing/AppAcademy/portfolio/assets/css/header.css	/^.nav-ul {$/;"	function	line:24
 header nav ul li	/Users/walter/Documents/Programing/AppAcademy/portfolio/assets/css/header.css	/^header nav ul li {$/;"	function	line:30
 .name	/Users/walter/Documents/Programing/AppAcademy/portfolio/assets/css/header.css	/^.name {$/;"	function	line:35
+name	/Users/walter/Documents/Programing/AppAcademy/portfolio/package.json	/^  "name": "portfolio",$/;"	function	line:2
+version	/Users/walter/Documents/Programing/AppAcademy/portfolio/package.json	/^  "version": "1.0.0",$/;"	function	line:3
+description	/Users/walter/Documents/Programing/AppAcademy/portfolio/package.json	/^  "description": "Walter's Personal Website",$/;"	function	line:4
+main	/Users/walter/Documents/Programing/AppAcademy/portfolio/package.json	/^  "main": "index.js",$/;"	function	line:5
+scripts	/Users/walter/Documents/Programing/AppAcademy/portfolio/package.json	/^  "scripts": {$/;"	function	line:6
+start	/Users/walter/Documents/Programing/AppAcademy/portfolio/package.json	/^    "start": "node server.js",$/;"	function	line:7
+test	/Users/walter/Documents/Programing/AppAcademy/portfolio/package.json	/^    "test": "echo \\"Error: no test specified\\" && exit 1"$/;"	function	line:8
+repository	/Users/walter/Documents/Programing/AppAcademy/portfolio/package.json	/^  "repository": {$/;"	function	line:10
+type	/Users/walter/Documents/Programing/AppAcademy/portfolio/package.json	/^    "type": "git",$/;"	function	line:11
+url	/Users/walter/Documents/Programing/AppAcademy/portfolio/package.json	/^    "url": "git+https:\/\/github.com\/walterhwan\/personal-portfolio.git"$/;"	function	line:12
+author	/Users/walter/Documents/Programing/AppAcademy/portfolio/package.json	/^  "author": "Walter",$/;"	function	line:14
+license	/Users/walter/Documents/Programing/AppAcademy/portfolio/package.json	/^  "license": "ISC",$/;"	function	line:15
+engines	/Users/walter/Documents/Programing/AppAcademy/portfolio/package.json	/^  "engines": {$/;"	function	line:16
+node	/Users/walter/Documents/Programing/AppAcademy/portfolio/package.json	/^    "node": "9.8.0",$/;"	function	line:17
+npm	/Users/walter/Documents/Programing/AppAcademy/portfolio/package.json	/^    "npm": "5.6.0"$/;"	function	line:18
+bugs	/Users/walter/Documents/Programing/AppAcademy/portfolio/package.json	/^  "bugs": {$/;"	function	line:20
+url	/Users/walter/Documents/Programing/AppAcademy/portfolio/package.json	/^    "url": "https:\/\/github.com\/walterhwan\/personal-portfolio\/issues"$/;"	function	line:21
+homepage	/Users/walter/Documents/Programing/AppAcademy/portfolio/package.json	/^  "homepage": "https:\/\/github.com\/walterhwan\/personal-portfolio#readme",$/;"	function	line:23
+dependencies	/Users/walter/Documents/Programing/AppAcademy/portfolio/package.json	/^  "dependencies": {$/;"	function	line:24
+express	/Users/walter/Documents/Programing/AppAcademy/portfolio/package.json	/^    "express": "^4.16.3"$/;"	function	line:25
