@@ -2696,7 +2696,7 @@
 		text-align: center;
 	}
 
-	header p {
+	/* header p {
 		position: relative;
 		margin: -0.65rem 0 1.5rem 0;
 		font-style: italic;
@@ -2722,7 +2722,7 @@
 
 	header p {
 		color: rgba(0, 0, 0, 0.75);
-	}
+	} */
 
 /* Table */
 

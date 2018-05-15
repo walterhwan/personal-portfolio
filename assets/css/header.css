@@ -2,6 +2,7 @@ header {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
+  align-content: center;
   position: fixed;
   z-index: 10;
   left: 0;
@@ -15,16 +16,22 @@ header {
 }
 
 header h1 {
-  margin-left: 10px;
-  font-size: 40px;
+  font-size: 30px;
+  margin-left: 0.25em;
+  margin-top: 0.25em;
 }
 
-header nav ul {
+.nav-ul {
   list-style: none;
   display: flex;
   flex-direction: row;
 }
 
 header nav ul li {
-  margin-right: 10px;
+  font-size: 20px;
+  margin-right: 0.5em;
+}
+
+.name {
+  font-size: 54px;
 }
