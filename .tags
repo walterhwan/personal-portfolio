@@ -1741,131 +1741,133 @@ section	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^			
 div	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^						<div class="content">$/;"	function	line:35
 h	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^							<h1 class='name'>Hsuan-chen (Walter) Wan<\/h1>$/;"	function	line:36
 p	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^							<p class="major">A rocket science engineer turned software developer<\/p>$/;"	function	line:37
-p	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^							<p class="major">I love learning new technologies especially when they can help us writing cleaner codes. So we can spend time problem-solving, inventing new features and improve user-experience.<\/p>$/;"	function	line:39
-ul	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^							<ul class="actions vertical">$/;"	function	line:40
-div	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^						<div class="image">$/;"	function	line:44
-img	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^							<img src="images\/rocket-launch.jpg" alt="" \/>$/;"	function	line:45
-section	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^					<section class="spotlight style1 orient-right content-align-left image-position-center onscroll-image-fade-in" id="what-i-do">$/;"	function	line:50
-div	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^						<div class="content">$/;"	function	line:51
-h	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^							<h2>What I do<\/h2>$/;"	function	line:52
-p	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^							<p>I am a hard working software developer with a habit of writing DRY and easily understandable code. I have experience building dynamic web app in React with Redux, JavaScript, Ruby on Rails, And HTML\/CSS.<\/p>$/;"	function	line:53
-p	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^							<p>I also know other programming languages like Java, C++, and MATLAB. And I continue to learn new technologies because I have a passionate curiosity for learning.<\/p>$/;"	function	line:54
-ul	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^							<ul class="actions vertical">$/;"	function	line:55
-li	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^								<li>$/;"	function	line:56
-a	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^									<a href="assets\/resume-hsuan-chen-wan.pdf" class="button special icon fa-file">View my resume here<\/a>$/;"	function	line:57
-div	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^						<div class="image">$/;"	function	line:61
-img	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^							<img src="images\/personal_pic.jpg" alt="" \/>$/;"	function	line:62
-div	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^						<div class="content">$/;"	function	line:68
-h	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^							<h2>Tempus adipiscing<\/h2>$/;"	function	line:69
-p	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi id ante sed ex pharetra lacinia sit amet vel massa. Donec facilisis laoreet nulla eu bibendum. Donec ut ex risus. Fusce lorem lectus, pharetra pretium massa et, hendrerit vestibulum odio lorem ipsum dolor sit amet.<\/p>$/;"	function	line:70
-ul	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^							<ul class="actions vertical">$/;"	function	line:71
-li	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^								<li><a href="#" class="button">Learn More<\/a><\/li>$/;"	function	line:72
-div	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^						<div class="image">$/;"	function	line:75
-img	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^							<img src="images\/spotlight02.jpg" alt="" \/>$/;"	function	line:76
-div	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^						<div class="content">$/;"	function	line:82
-h	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^							<h2>Pharetra etiam nulla<\/h2>$/;"	function	line:83
-p	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi id ante sed ex pharetra lacinia sit amet vel massa. Donec facilisis laoreet nulla eu bibendum. Donec ut ex risus. Fusce lorem lectus, pharetra pretium massa et, hendrerit vestibulum odio lorem ipsum dolor sit amet.<\/p>$/;"	function	line:84
-ul	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^							<ul class="actions vertical">$/;"	function	line:85
-li	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^								<li><a href="#" class="button">Learn More<\/a><\/li>$/;"	function	line:86
-div	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^						<div class="image">$/;"	function	line:89
-img	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^							<img src="images\/spotlight03.jpg" alt="" \/>$/;"	function	line:90
-section	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^					<section class="wrapper style1 align-center" id='projects'>$/;"	function	line:95
-div	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^						<div class="inner">$/;"	function	line:96
-h	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^							<h2>Projects<\/h2>$/;"	function	line:97
-p	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^							<p>I have built a full-stack app(React\/Redux, Ruby on Rails, PostgreSQL),&nbsp;a fun game built in vanilla JavaScript and HTML5 Canvas, and a match-making site for Overwatch on MERN stack.<\/p>$/;"	function	line:98
-div	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^							<div class="gallery style1 big lightbox onscroll-fade-in">$/;"	function	line:101
-article	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^								<article>$/;"	function	line:102
-img	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^										<img src="images\/gallery\/thumbs\/01.jpg" alt="" \/>$/;"	function	line:104
-div	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^									<div class="caption">$/;"	function	line:106
-p	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^										<p>Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices.<\/p> -->$/;"	function	line:108
-ul	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^										<ul class="actions">$/;"	function	line:109
-li	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^											<li><span class="button small"><a class='link' href="https:\/\/remember-the-bacon.herokuapp.com">Live site<\/a><\/span><\/li>$/;"	function	line:110
-li	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^											<li><span class="button small"><a class='link' href="https:\/\/github.com\/walterhwan\/remember_the_bacon">Github<\/a><\/span><\/li>$/;"	function	line:111
-article	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^								<article>$/;"	function	line:115
-img	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^										<img src="images\/gallery\/thumbs\/02.jpg" alt="" \/>$/;"	function	line:117
-div	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^									<div class="caption">$/;"	function	line:119
-p	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^										<p>Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices.<\/p> -->$/;"	function	line:121
-ul	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^										<ul class="actions">$/;"	function	line:122
-li	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^											<li><span class="button small"><a class='link' href="https:\/\/snake-vs-wall.herokuapp.com\/">Live site<\/a><\/span><\/li>$/;"	function	line:123
-li	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^											<li><span class="button small"><a class='link' href="https:\/\/github.com\/walterhwan\/snake_vs_wall">Github<\/a><\/span><\/li>$/;"	function	line:124
-article	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^								<article>$/;"	function	line:128
-img	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^										<img src="images\/gallery\/thumbs\/03.jpg" alt="" \/>$/;"	function	line:130
-div	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^									<div class="caption">$/;"	function	line:132
-ul	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^										<ul class="actions">$/;"	function	line:135
-li	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^											<li><span class="button small"><a class='link' href="https:\/\/remember-the-bacon.herokuapp.com">Live site<\/a><\/span><\/li>$/;"	function	line:136
-li	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^											<li><span class="button small"><a class='link' href="https:\/\/github.com\/walterhwan\/remember_the_bacon">Github<\/a><\/span><\/li>$/;"	function	line:137
-div	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^						<div class="inner">$/;"	function	line:145
-h	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^							<h2>Items<\/h2>$/;"	function	line:146
-p	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi id ante sed ex pharetra lacinia sit amet vel massa. Donec facilisis laoreet nulla eu bibendum. Donec ut ex risus.<\/p>$/;"	function	line:147
-section	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^					<section class="wrapper style1 align-center">$/;"	function	line:152
-div	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^						<div class="inner">$/;"	function	line:153
-ul	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^							<ul class='skills-ul'>$/;"	function	line:156
-li	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^								<li>$/;"	function	line:157
-i	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^									<i class="devicon-javascript-plain colored"><\/i>$/;"	function	line:158
-li	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^								<li>$/;"	function	line:160
-i	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^									<i class="devicon-ruby-plain-wordmark colored"><\/i>$/;"	function	line:161
-li	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^								<li>$/;"	function	line:163
-i	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^									<i class="devicon-rails-plain-wordmark colored"><\/i>$/;"	function	line:164
-li	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^								<li>$/;"	function	line:166
-i	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^									<i class="devicon-react-original-wordmark colored"><\/i>$/;"	function	line:167
-li	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^								<li>$/;"	function	line:169
-i	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^									<i class="devicon-express-original-wordmark colored"><\/i>$/;"	function	line:170
-li	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^								<li>$/;"	function	line:172
-i	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^									<i class="devicon-nodejs-plain colored"><\/i>$/;"	function	line:173
-li	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^								<li>$/;"	function	line:175
-i	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^									<i class="devicon-jquery-plain-wordmark colored"><\/i>$/;"	function	line:176
-li	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^								<li>$/;"	function	line:178
-i	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^									<i class="devicon-postgresql-plain-wordmark colored"><\/i>$/;"	function	line:179
-li	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^								<li>$/;"	function	line:181
-i	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^									<i class="devicon-mysql-plain-wordmark colored"><\/i>$/;"	function	line:182
-li	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^								<li>$/;"	function	line:184
-i	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^									<i class="devicon-git-plain-wordmark colored"><\/i>$/;"	function	line:185
-li	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^								<li>$/;"	function	line:187
-i	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^									<i class="devicon-css3-plain-wordmark colored"><\/i>$/;"	function	line:188
-li	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^								<li>$/;"	function	line:190
-i	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^									<i class="devicon-sass-original colored"><\/i>$/;"	function	line:191
-li	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^								<li>$/;"	function	line:193
-i	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^									<i class="devicon-webpack-plain-wordmark colored"><\/i>$/;"	function	line:194
-li	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^								<li>$/;"	function	line:196
-i	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^									<i class="devicon-cplusplus-line colored"><\/i>$/;"	function	line:197
-li	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^								<li>$/;"	function	line:199
-i	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^									<i class="devicon-java-plain-wordmark colored"><\/i>$/;"	function	line:200
-section	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^								<section>$/;"	function	line:204
-span	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^									<span class="icon style2 major fa-diamond"><\/span>$/;"	function	line:205
-h	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^									<h3>Ruby on Rails<\/h3>$/;"	function	line:206
-p	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^									<p>Remember the Bacon is a place to store of your to-do list and get things done! It was inspired by Remember the Milk. But unlike the oringial, it delivers a smoother user experience through Rails, PostgreSQL, React.js, and Redux. This project was planned and implemented in about 11 days.<\/p>$/;"	function	line:207
-section	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^								<section>$/;"	function	line:209
-span	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^									<span class="icon style2 major fa-save"><\/span>$/;"	function	line:210
-h	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^									<h3>Ipsum<\/h3>$/;"	function	line:211
-p	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit.<\/p>$/;"	function	line:212
-section	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^								<section>$/;"	function	line:214
-span	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^									<span class="icon style2 major fa-bar-chart"><\/span>$/;"	function	line:215
-h	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^									<h3>Dolor<\/h3>$/;"	function	line:216
-p	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit.<\/p>$/;"	function	line:217
-div	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^						<div class="inner medium">$/;"	function	line:225
-h	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^							<h2>Get in touch<\/h2>$/;"	function	line:226
-form	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^							<form method="post" action="#">$/;"	function	line:227
-div	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^								<div class="field half first">$/;"	function	line:228
-label	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^									<label for="name">Name<\/label>$/;"	function	line:229
-input	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^									<input type="text" name="name" id="name" value="" \/>$/;"	function	line:230
-div	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^								<div class="field half">$/;"	function	line:232
-label	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^									<label for="email">Email<\/label>$/;"	function	line:233
-input	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^									<input type="email" name="email" id="email" value="" \/>$/;"	function	line:234
-div	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^								<div class="field">$/;"	function	line:236
-label	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^									<label for="message">Message<\/label>$/;"	function	line:237
-textarea	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^									<textarea name="message" id="message" rows="6"><\/textarea>$/;"	function	line:238
-ul	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^								<ul class="actions">$/;"	function	line:240
-li	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^									<li><input type="submit" name="submit" id="submit" value="Send Message" \/><\/li>$/;"	function	line:241
-footer	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^					<footer class="wrapper style1 align-center">$/;"	function	line:249
-div	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^						<div class="inner">$/;"	function	line:250
-ul	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^							<ul class="icons">$/;"	function	line:251
-li	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^								<li><a href="#" class="icon style2 fa-facebook"><span class="label">Facebook<\/span><\/a><\/li> -->$/;"	function	line:253
-li	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^								<li><a href="https:\/\/github.com\/walterhwan" class="icon style2 fa-github"><span class="label">GitHub<\/span><\/a><\/li>$/;"	function	line:254
-li	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^								<li><a href="https:\/\/www.linkedin.com\/in\/hsuan-chen-walter-wan-b9854970\/" class="icon style2 fa-linkedin"><span class="label">LinkedIn<\/span><\/a><\/li>$/;"	function	line:255
-p	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^							<p>&copy; Hsuan-chen Wan: <a href="https:\/\/html5up.net">HTML5 UP<\/a>.<\/p>$/;"	function	line:258
-script	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^			<script src="assets\/js\/jquery.min.js"><\/script>$/;"	function	line:265
-script	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^			<script src="assets\/js\/jquery.scrollex.min.js"><\/script>$/;"	function	line:266
-script	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^			<script src="assets\/js\/jquery.scrolly.min.js"><\/script>$/;"	function	line:267
-script	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^			<script src="assets\/js\/skel.min.js"><\/script>$/;"	function	line:268
-script	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^			<script src="assets\/js\/util.js"><\/script>$/;"	function	line:269
-script	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^			<script src="assets\/js\/main.js"><\/script>$/;"	function	line:270
+p	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^							<p class="major">I love learning new technologies especially when they can help us writing cleaner codes. So we can spend time problem-solving, inventing new features and improve user-experience.<\/p>$/;"	function	line:38
+p	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^							<p><a href="tel:925-301-3917" class='icon fa-phone-square'> 925-301-3917<\/a>$/;"	function	line:39
+a	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^							<a href="mailto:walterhwan@gmail.com" class='icon fa-envelope-square'> walterhwan@gmail.com<\/a><\/p>$/;"	function	line:41
+ul	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^							<ul class="actions vertical">$/;"	function	line:42
+div	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^						<div class="image">$/;"	function	line:46
+img	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^							<img src="images\/rocket-launch.jpg" alt="" \/>$/;"	function	line:47
+section	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^					<section class="spotlight style1 orient-right content-align-left image-position-center onscroll-image-fade-in" id="what-i-do">$/;"	function	line:52
+div	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^						<div class="content">$/;"	function	line:53
+h	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^							<h2>What I do<\/h2>$/;"	function	line:54
+p	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^							<p>I am a hard working software developer with a habit of writing DRY and easily understandable code. I have experience building dynamic web app in React with Redux, JavaScript, Ruby on Rails, And HTML\/CSS.<\/p>$/;"	function	line:55
+p	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^							<p>I also know other programming languages like Java, C++, and MATLAB. And I continue to learn new technologies because I have a passionate curiosity for learning.<\/p>$/;"	function	line:56
+ul	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^							<ul class="actions vertical">$/;"	function	line:57
+li	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^								<li>$/;"	function	line:58
+a	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^									<a href="assets\/resume-hsuan-chen-wan.pdf" class="button special icon fa-file">View my resume here<\/a>$/;"	function	line:59
+div	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^						<div class="image">$/;"	function	line:63
+img	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^							<img src="images\/personal_pic.jpg" alt="" \/>$/;"	function	line:64
+div	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^						<div class="content">$/;"	function	line:70
+h	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^							<h2>Tempus adipiscing<\/h2>$/;"	function	line:71
+p	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi id ante sed ex pharetra lacinia sit amet vel massa. Donec facilisis laoreet nulla eu bibendum. Donec ut ex risus. Fusce lorem lectus, pharetra pretium massa et, hendrerit vestibulum odio lorem ipsum dolor sit amet.<\/p>$/;"	function	line:72
+ul	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^							<ul class="actions vertical">$/;"	function	line:73
+li	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^								<li><a href="#" class="button">Learn More<\/a><\/li>$/;"	function	line:74
+div	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^						<div class="image">$/;"	function	line:77
+img	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^							<img src="images\/spotlight02.jpg" alt="" \/>$/;"	function	line:78
+div	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^						<div class="content">$/;"	function	line:84
+h	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^							<h2>Pharetra etiam nulla<\/h2>$/;"	function	line:85
+p	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi id ante sed ex pharetra lacinia sit amet vel massa. Donec facilisis laoreet nulla eu bibendum. Donec ut ex risus. Fusce lorem lectus, pharetra pretium massa et, hendrerit vestibulum odio lorem ipsum dolor sit amet.<\/p>$/;"	function	line:86
+ul	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^							<ul class="actions vertical">$/;"	function	line:87
+li	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^								<li><a href="#" class="button">Learn More<\/a><\/li>$/;"	function	line:88
+div	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^						<div class="image">$/;"	function	line:91
+img	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^							<img src="images\/spotlight03.jpg" alt="" \/>$/;"	function	line:92
+section	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^					<section class="wrapper style1 align-center" id='projects'>$/;"	function	line:97
+div	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^						<div class="inner">$/;"	function	line:98
+h	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^							<h2>Projects<\/h2>$/;"	function	line:99
+p	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^							<p>I have built a full-stack app(React\/Redux, Ruby on Rails, PostgreSQL),&nbsp;a fun game built in vanilla JavaScript and HTML5 Canvas, and a match-making site for Overwatch on MERN stack.<\/p>$/;"	function	line:100
+div	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^							<div class="gallery style1 big lightbox onscroll-fade-in">$/;"	function	line:103
+article	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^								<article>$/;"	function	line:104
+img	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^										<img src="images\/gallery\/thumbs\/01.jpg" alt="" \/>$/;"	function	line:106
+div	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^									<div class="caption">$/;"	function	line:108
+p	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^										<p>Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices.<\/p> -->$/;"	function	line:110
+ul	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^										<ul class="actions">$/;"	function	line:111
+li	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^											<li><a class='link button small' href="https:\/\/remember-the-bacon.herokuapp.com">Live site<\/a><\/span><\/li>$/;"	function	line:112
+li	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^											<li><a class='link button small' href="https:\/\/github.com\/walterhwan\/remember_the_bacon">Github<\/a><\/li>$/;"	function	line:113
+article	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^								<article>$/;"	function	line:117
+img	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^										<img src="images\/gallery\/thumbs\/02.jpg" alt="" \/>$/;"	function	line:119
+div	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^									<div class="caption">$/;"	function	line:121
+p	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^										<p>Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices.<\/p> -->$/;"	function	line:123
+ul	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^										<ul class="actions">$/;"	function	line:124
+li	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^											<li><a class='link button small' href="https:\/\/snake-vs-wall.herokuapp.com\/">Live site<\/a><\/li>$/;"	function	line:125
+li	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^											<li><a class='link button small' href="https:\/\/github.com\/walterhwan\/snake_vs_wall">Github<\/a><\/li>$/;"	function	line:126
+article	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^								<article>$/;"	function	line:130
+img	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^										<img src="images\/gallery\/thumbs\/03.jpg" alt="" \/>$/;"	function	line:132
+div	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^									<div class="caption">$/;"	function	line:134
+ul	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^										<ul class="actions">$/;"	function	line:137
+li	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^											<li><a class='button small link' href="https:\/\/remember-the-bacon.herokuapp.com">Live site<\/a><\/li>$/;"	function	line:138
+li	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^											<li><a class="button link small" href="https:\/\/github.com\/walterhwan\/remember_the_bacon">Github<\/a><\/li>$/;"	function	line:139
+div	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^						<div class="inner">$/;"	function	line:147
+h	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^							<h2>Items<\/h2>$/;"	function	line:148
+p	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi id ante sed ex pharetra lacinia sit amet vel massa. Donec facilisis laoreet nulla eu bibendum. Donec ut ex risus.<\/p>$/;"	function	line:149
+section	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^					<section class="wrapper style1 align-center">$/;"	function	line:154
+div	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^						<div class="inner">$/;"	function	line:155
+ul	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^							<ul class='skills-ul'>$/;"	function	line:158
+li	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^								<li>$/;"	function	line:159
+i	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^									<i class="devicon-javascript-plain colored"><\/i>$/;"	function	line:160
+li	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^								<li>$/;"	function	line:162
+i	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^									<i class="devicon-ruby-plain-wordmark colored"><\/i>$/;"	function	line:163
+li	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^								<li>$/;"	function	line:165
+i	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^									<i class="devicon-rails-plain-wordmark colored"><\/i>$/;"	function	line:166
+li	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^								<li>$/;"	function	line:168
+i	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^									<i class="devicon-react-original-wordmark colored"><\/i>$/;"	function	line:169
+li	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^								<li>$/;"	function	line:171
+i	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^									<i class="devicon-express-original-wordmark colored"><\/i>$/;"	function	line:172
+li	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^								<li>$/;"	function	line:174
+i	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^									<i class="devicon-nodejs-plain colored"><\/i>$/;"	function	line:175
+li	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^								<li>$/;"	function	line:177
+i	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^									<i class="devicon-jquery-plain-wordmark colored"><\/i>$/;"	function	line:178
+li	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^								<li>$/;"	function	line:180
+i	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^									<i class="devicon-postgresql-plain-wordmark colored"><\/i>$/;"	function	line:181
+li	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^								<li>$/;"	function	line:183
+i	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^									<i class="devicon-mysql-plain-wordmark colored"><\/i>$/;"	function	line:184
+li	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^								<li>$/;"	function	line:186
+i	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^									<i class="devicon-git-plain-wordmark colored"><\/i>$/;"	function	line:187
+li	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^								<li>$/;"	function	line:189
+i	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^									<i class="devicon-css3-plain-wordmark colored"><\/i>$/;"	function	line:190
+li	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^								<li>$/;"	function	line:192
+i	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^									<i class="devicon-sass-original colored"><\/i>$/;"	function	line:193
+li	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^								<li>$/;"	function	line:195
+i	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^									<i class="devicon-webpack-plain-wordmark colored"><\/i>$/;"	function	line:196
+li	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^								<li>$/;"	function	line:198
+i	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^									<i class="devicon-cplusplus-line colored"><\/i>$/;"	function	line:199
+li	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^								<li>$/;"	function	line:201
+i	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^									<i class="devicon-java-plain-wordmark colored"><\/i>$/;"	function	line:202
+section	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^								<section>$/;"	function	line:206
+span	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^									<span class="icon style2 major fa-diamond"><\/span>$/;"	function	line:207
+h	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^									<h3>Ruby on Rails<\/h3>$/;"	function	line:208
+p	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^									<p>Remember the Bacon is a place to store of your to-do list and get things done! It was inspired by Remember the Milk. But unlike the oringial, it delivers a smoother user experience through Rails, PostgreSQL, React.js, and Redux. This project was planned and implemented in about 11 days.<\/p>$/;"	function	line:209
+section	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^								<section>$/;"	function	line:211
+span	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^									<span class="icon style2 major fa-save"><\/span>$/;"	function	line:212
+h	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^									<h3>Ipsum<\/h3>$/;"	function	line:213
+p	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit.<\/p>$/;"	function	line:214
+section	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^								<section>$/;"	function	line:216
+span	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^									<span class="icon style2 major fa-bar-chart"><\/span>$/;"	function	line:217
+h	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^									<h3>Dolor<\/h3>$/;"	function	line:218
+p	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit.<\/p>$/;"	function	line:219
+div	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^						<div class="inner medium">$/;"	function	line:227
+h	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^							<h2>Get in touch<\/h2>$/;"	function	line:228
+form	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^							<form method="post" action="#">$/;"	function	line:229
+div	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^								<div class="field half first">$/;"	function	line:230
+label	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^									<label for="name">Name<\/label>$/;"	function	line:231
+input	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^									<input type="text" name="name" id="name" value="" \/>$/;"	function	line:232
+div	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^								<div class="field half">$/;"	function	line:234
+label	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^									<label for="email">Email<\/label>$/;"	function	line:235
+input	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^									<input type="email" name="email" id="email" value="" \/>$/;"	function	line:236
+div	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^								<div class="field">$/;"	function	line:238
+label	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^									<label for="message">Message<\/label>$/;"	function	line:239
+textarea	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^									<textarea name="message" id="message" rows="6"><\/textarea>$/;"	function	line:240
+ul	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^								<ul class="actions">$/;"	function	line:242
+li	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^									<li><input type="submit" name="submit" id="submit" value="Send Message" \/><\/li>$/;"	function	line:243
+footer	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^					<footer class="wrapper style1 align-center">$/;"	function	line:251
+div	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^						<div class="inner">$/;"	function	line:252
+ul	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^							<ul class="icons">$/;"	function	line:253
+li	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^								<li><a href="#" class="icon style2 fa-facebook"><span class="label">Facebook<\/span><\/a><\/li> -->$/;"	function	line:255
+li	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^								<li><a href="https:\/\/github.com\/walterhwan" class="icon style2 fa-github"><span class="label">GitHub<\/span><\/a><\/li>$/;"	function	line:256
+li	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^								<li><a href="https:\/\/www.linkedin.com\/in\/hsuan-chen-walter-wan-b9854970\/" class="icon style2 fa-linkedin"><span class="label">LinkedIn<\/span><\/a><\/li>$/;"	function	line:257
+p	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^							<p>&copy; Hsuan-chen Wan: <a href="https:\/\/html5up.net">HTML5 UP<\/a>.<\/p>$/;"	function	line:260
+script	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^			<script src="assets\/js\/jquery.min.js"><\/script>$/;"	function	line:267
+script	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^			<script src="assets\/js\/jquery.scrollex.min.js"><\/script>$/;"	function	line:268
+script	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^			<script src="assets\/js\/jquery.scrolly.min.js"><\/script>$/;"	function	line:269
+script	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^			<script src="assets\/js\/skel.min.js"><\/script>$/;"	function	line:270
+script	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^			<script src="assets\/js\/util.js"><\/script>$/;"	function	line:271
+script	/Users/walter/Documents/Programing/AppAcademy/portfolio/index.html	/^			<script src="assets\/js\/main.js"><\/script>$/;"	function	line:272
