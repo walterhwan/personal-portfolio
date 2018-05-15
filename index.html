@@ -6,22 +6,23 @@
 -->
 <html>
 	<head>
-		<title>Story by HTML5 UP</title>
+		<title>Hsuan-chen Wan</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<link rel="stylesheet" href="assets/css/main.css" />
 		<link rel="stylesheet" href="assets/css/header.css" />
+		<link rel="stylesheet" href="https://cdn.rawgit.com/konpa/devicon/df6431e323547add1b4cf45992913f15286456d3/devicon.min.css">
 	</head>
 	<body>
-		<header id="header">
+		<header class="header-nav">
 			<h1>Hsuan-chen Wan</h1>
 			<nav>
 				<ul class='nav-ul'>
-					<li><a href="#about-me">About me</a></li>
-					<li><a href="#first">What I Do</a></li>
-					<li><a href="#two">Who I Am</a></li>
-					<li><a href="#work">My Work</a></li>
-					<li><a href="#contact">Contact</a></li>
+					<li><a class='link' href="#about-me">About me</a></li>
+					<li><a class='link' href="#what-i-do">What I Do</a></li>
+					<!-- <li><a href="#two">Who I Am</a></li> -->
+					<li><a class='link' href="#projects">My Projects</a></li>
+					<!-- <li><a href="#contact">Contact</a></li> -->
 				</ul>
 			</nav>
 		</header>
@@ -46,21 +47,24 @@
 					</section>
 
 				<!-- Two -->
-					<section class="spotlight style1 orient-right content-align-left image-position-center onscroll-image-fade-in" id="first">
+					<section class="spotlight style1 orient-right content-align-left image-position-center onscroll-image-fade-in" id="what-i-do">
 						<div class="content">
-							<h2>Magna etiam feugiat</h2>
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi id ante sed ex pharetra lacinia sit amet vel massa. Donec facilisis laoreet nulla eu bibendum. Donec ut ex risus. Fusce lorem lectus, pharetra pretium massa et, hendrerit vestibulum odio lorem ipsum dolor sit amet.</p>
+							<h2>What I do</h2>
+							<p>I am a hard working software developer with a habit of writing DRY and easily understandable code. I have experience building dynamic web app in React with Redux, JavaScript, Ruby on Rails, And HTML/CSS.</p>
+							<p>I also know other programming languages like Java, C++, and MATLAB. And I continue to learn new technologies because I have a passionate curiosity for learning.</p>
 							<ul class="actions vertical">
-								<li><a href="#" class="button">Learn More</a></li>
+								<li>
+									<a href="assets/resume-hsuan-chen-wan.pdf" class="button special icon fa-file">View my resume here</a>
+								</li>
 							</ul>
 						</div>
 						<div class="image">
-							<img src="images/spotlight01.jpg" alt="" />
+							<img src="images/personal_pic.jpg" alt="" />
 						</div>
 					</section>
 
 				<!-- Three -->
-					<section class="spotlight style1 orient-left content-align-left image-position-center onscroll-image-fade-in">
+					<!-- <section class="spotlight style1 orient-left content-align-left image-position-center onscroll-image-fade-in">
 						<div class="content">
 							<h2>Tempus adipiscing</h2>
 							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi id ante sed ex pharetra lacinia sit amet vel massa. Donec facilisis laoreet nulla eu bibendum. Donec ut ex risus. Fusce lorem lectus, pharetra pretium massa et, hendrerit vestibulum odio lorem ipsum dolor sit amet.</p>
@@ -71,10 +75,10 @@
 						<div class="image">
 							<img src="images/spotlight02.jpg" alt="" />
 						</div>
-					</section>
+					</section> -->
 
 				<!-- Four -->
-					<section class="spotlight style1 orient-right content-align-left image-position-center onscroll-image-fade-in">
+					<!-- <section class="spotlight style1 orient-right content-align-left image-position-center onscroll-image-fade-in">
 						<div class="content">
 							<h2>Pharetra etiam nulla</h2>
 							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi id ante sed ex pharetra lacinia sit amet vel massa. Donec facilisis laoreet nulla eu bibendum. Donec ut ex risus. Fusce lorem lectus, pharetra pretium massa et, hendrerit vestibulum odio lorem ipsum dolor sit amet.</p>
@@ -85,175 +89,122 @@
 						<div class="image">
 							<img src="images/spotlight03.jpg" alt="" />
 						</div>
-					</section>
+					</section> -->
 
 				<!-- Five -->
-					<section class="wrapper style1 align-center">
+					<section class="wrapper style1 align-center" id='projects'>
 						<div class="inner">
-							<h2>Massa sed condimentum</h2>
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi id ante sed ex pharetra lacinia sit amet vel massa. Donec facilisis laoreet nulla eu bibendum. Donec ut ex risus. Fusce lorem lectus, pharetra pretium massa et, hendrerit vestibulum odio lorem ipsum.</p>
+							<h2>Projects</h2>
+							<p>I have built a full-stack app(React/Redux, Ruby on Rails, PostgreSQL),&nbsp;a fun game built in vanilla JavaScript and HTML5 Canvas, and a match-making site for Overwatch on MERN stack.</p>
 						</div>
 
-						<!-- Gallery -->
-							<div class="gallery style2 medium lightbox onscroll-fade-in">
+							<div class="gallery style1 big lightbox onscroll-fade-in">
 								<article>
-									<a href="images/gallery/fulls/01.jpg" class="image">
+									<!-- <a href="https://remember-the-bacon.herokuapp.com/" class="image"> -->
 										<img src="images/gallery/thumbs/01.jpg" alt="" />
-									</a>
+									<!-- </a> -->
 									<div class="caption">
-										<h3>Ipsum Dolor</h3>
-										<p>Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices.</p>
+										<!-- <h3>Ipsum Dolor</h3>
+										<p>Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices.</p> -->
 										<ul class="actions">
-											<li><span class="button small">Details</span></li>
+											<li><span class="button small"><a class='link' href="https://remember-the-bacon.herokuapp.com">Live site</a></span></li>
+											<li><span class="button small"><a class='link' href="https://github.com/walterhwan/remember_the_bacon">Github</a></span></li>
 										</ul>
 									</div>
 								</article>
 								<article>
-									<a href="images/gallery/fulls/02.jpg" class="image">
+									<!-- <a href="images/gallery/fulls/02.jpg" class="image"> -->
 										<img src="images/gallery/thumbs/02.jpg" alt="" />
-									</a>
+									<!-- </a> -->
 									<div class="caption">
-										<h3>Feugiat Lorem</h3>
-										<p>Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices.</p>
+										<!-- <h3>Feugiat Lorem</h3>
+										<p>Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices.</p> -->
 										<ul class="actions">
-											<li><span class="button small">Details</span></li>
+											<li><span class="button small"><a class='link' href="https://snake-vs-wall.herokuapp.com/">Live site</a></span></li>
+											<li><span class="button small"><a class='link' href="https://github.com/walterhwan/snake_vs_wall">Github</a></span></li>
 										</ul>
 									</div>
 								</article>
 								<article>
-									<a href="images/gallery/fulls/03.jpg" class="image">
+									<!-- <a href="images/gallery/fulls/03.jpg" class="image"> -->
 										<img src="images/gallery/thumbs/03.jpg" alt="" />
-									</a>
+									<!-- </a> -->
 									<div class="caption">
-										<h3>Magna Amet</h3>
-										<p>Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices.</p>
+										<!-- <h3>Magna Amet</h3> -->
+										<!-- <p>Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices.</p> -->
 										<ul class="actions">
-											<li><span class="button small">Details</span></li>
-										</ul>
-									</div>
-								</article>
-								<article>
-									<a href="images/gallery/fulls/04.jpg" class="image">
-										<img src="images/gallery/thumbs/04.jpg" alt="" />
-									</a>
-									<div class="caption">
-										<h3>Sed Tempus</h3>
-										<p>Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices.</p>
-										<ul class="actions">
-											<li><span class="button small">Details</span></li>
-										</ul>
-									</div>
-								</article>
-								<article>
-									<a href="images/gallery/fulls/05.jpg" class="image">
-										<img src="images/gallery/thumbs/05.jpg" alt="" />
-									</a>
-									<div class="caption">
-										<h3>Ultrices Magna</h3>
-										<p>Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices.</p>
-										<ul class="actions">
-											<li><span class="button small">Details</span></li>
-										</ul>
-									</div>
-								</article>
-								<article>
-									<a href="images/gallery/fulls/06.jpg" class="image">
-										<img src="images/gallery/thumbs/06.jpg" alt="" />
-									</a>
-									<div class="caption">
-										<h3>Sed Tempus</h3>
-										<p>Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices.</p>
-										<ul class="actions">
-											<li><span class="button small">Details</span></li>
-										</ul>
-									</div>
-								</article>
-								<article>
-									<a href="images/gallery/fulls/07.jpg" class="image">
-										<img src="images/gallery/thumbs/07.jpg" alt="" />
-									</a>
-									<div class="caption">
-										<h3>Ipsum Lorem</h3>
-										<p>Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices.</p>
-										<ul class="actions">
-											<li><span class="button small">Details</span></li>
-										</ul>
-									</div>
-								</article>
-								<article>
-									<a href="images/gallery/fulls/08.jpg" class="image">
-										<img src="images/gallery/thumbs/08.jpg" alt="" />
-									</a>
-									<div class="caption">
-										<h3>Magna Risus</h3>
-										<p>Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices.</p>
-										<ul class="actions">
-											<li><span class="button small">Details</span></li>
-										</ul>
-									</div>
-								</article>
-								<article>
-									<a href="images/gallery/fulls/09.jpg" class="image">
-										<img src="images/gallery/thumbs/09.jpg" alt="" />
-									</a>
-									<div class="caption">
-										<h3>Tempus Dolor</h3>
-										<p>Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices.</p>
-										<ul class="actions">
-											<li><span class="button small">Details</span></li>
-										</ul>
-									</div>
-								</article>
-								<article>
-									<a href="images/gallery/fulls/10.jpg" class="image">
-										<img src="images/gallery/thumbs/10.jpg" alt="" />
-									</a>
-									<div class="caption">
-										<h3>Sed Etiam</h3>
-										<p>Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices.</p>
-										<ul class="actions">
-											<li><span class="button small">Details</span></li>
-										</ul>
-									</div>
-								</article>
-								<article>
-									<a href="images/gallery/fulls/11.jpg" class="image">
-										<img src="images/gallery/thumbs/11.jpg" alt="" />
-									</a>
-									<div class="caption">
-										<h3>Magna Lorem</h3>
-										<p>Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices.</p>
-										<ul class="actions">
-											<li><span class="button small">Details</span></li>
-										</ul>
-									</div>
-								</article>
-								<article>
-									<a href="images/gallery/fulls/12.jpg" class="image">
-										<img src="images/gallery/thumbs/12.jpg" alt="" />
-									</a>
-									<div class="caption">
-										<h3>Ipsum Dolor</h3>
-										<p>Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices.</p>
-										<ul class="actions">
-											<li><span class="button small">Details</span></li>
+											<li><span class="button small"><a class='link' href="https://remember-the-bacon.herokuapp.com">Live site</a></span></li>
+											<li><span class="button small"><a class='link' href="https://github.com/walterhwan/remember_the_bacon">Github</a></span></li>
 										</ul>
 									</div>
 								</article>
 							</div>
-
 					</section>
+
+					<!-- <section class="wrapper style1 align-center">
+						<div class="inner">
+							<h2>Items</h2>
+							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi id ante sed ex pharetra lacinia sit amet vel massa. Donec facilisis laoreet nulla eu bibendum. Donec ut ex risus.</p>
+						</div>
+					</section> -->
 
 				<!-- Six -->
 					<section class="wrapper style1 align-center">
 						<div class="inner">
-							<h2>Ipsum sed consequat</h2>
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi id ante sed ex pharetra lacinia sit amet vel massa. Donec facilisis laoreet nulla eu bibendum. Donec ut ex risus. Fusce lorem lectus, pharetra pretium massa et, hendrerit vestibulum odio lorem ipsum.</p>
-							<div class="items style1 medium onscroll-fade-in">
+							<!-- <h2>Skills</h2> -->
+							<!-- <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi id ante sed ex pharetra lacinia sit amet vel massa. Donec facilisis laoreet nulla eu bibendum. Donec ut ex risus. Fusce lorem lectus, pharetra pretium massa et, hendrerit vestibulum odio lorem ipsum.</p> -->
+							<ul class='skills-ul'>
+								<li>
+									<i class="devicon-javascript-plain colored"></i>
+								</li>
+								<li>
+									<i class="devicon-ruby-plain-wordmark colored"></i>
+								</li>
+								<li>
+									<i class="devicon-rails-plain-wordmark colored"></i>
+								</li>
+								<li>
+									<i class="devicon-react-original-wordmark colored"></i>
+								</li>
+								<li>
+									<i class="devicon-express-original-wordmark colored"></i>
+								</li>
+								<li>
+									<i class="devicon-nodejs-plain colored"></i>
+								</li>
+								<li>
+									<i class="devicon-jquery-plain-wordmark colored"></i>
+								</li>
+								<li>
+									<i class="devicon-postgresql-plain-wordmark colored"></i>
+								</li>
+								<li>
+									<i class="devicon-mysql-plain-wordmark colored"></i>
+								</li>
+								<li>
+									<i class="devicon-git-plain-wordmark colored"></i>
+								</li>
+								<li>
+									<i class="devicon-css3-plain-wordmark colored"></i>
+								</li>
+								<li>
+									<i class="devicon-sass-original colored"></i>
+								</li>
+								<li>
+									<i class="devicon-webpack-plain-wordmark colored"></i>
+								</li>
+								<li>
+									<i class="devicon-cplusplus-line colored"></i>
+								</li>
+								<li>
+									<i class="devicon-java-plain-wordmark colored"></i>
+								</li>
+							</ul>
+							<!-- <div class="items style1 medium onscroll-fade-in">
 								<section>
 									<span class="icon style2 major fa-diamond"></span>
-									<h3>Lorem</h3>
-									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit.</p>
+									<h3>Ruby on Rails</h3>
+									<p>Remember the Bacon is a place to store of your to-do list and get things done! It was inspired by Remember the Milk. But unlike the oringial, it delivers a smoother user experience through Rails, PostgreSQL, React.js, and Redux. This project was planned and implemented in about 11 days.</p>
 								</section>
 								<section>
 									<span class="icon style2 major fa-save"></span>
@@ -265,57 +216,12 @@
 									<h3>Dolor</h3>
 									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit.</p>
 								</section>
-								<section>
-									<span class="icon style2 major fa-wifi"></span>
-									<h3>Amet</h3>
-									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit.</p>
-								</section>
-								<section>
-									<span class="icon style2 major fa-cog"></span>
-									<h3>Magna</h3>
-									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit.</p>
-								</section>
-								<section>
-									<span class="icon style2 major fa-paper-plane"></span>
-									<h3>Tempus</h3>
-									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit.</p>
-								</section>
-								<section>
-									<span class="icon style2 major fa-desktop"></span>
-									<h3>Aliquam</h3>
-									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit.</p>
-								</section>
-								<section>
-									<span class="icon style2 major fa-refresh"></span>
-									<h3>Elit</h3>
-									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit.</p>
-								</section>
-								<section>
-									<span class="icon style2 major fa-hashtag"></span>
-									<h3>Morbi</h3>
-									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit.</p>
-								</section>
-								<section>
-									<span class="icon style2 major fa-bolt"></span>
-									<h3>Turpis</h3>
-									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit.</p>
-								</section>
-								<section>
-									<span class="icon style2 major fa-envelope"></span>
-									<h3>Ultrices</h3>
-									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit.</p>
-								</section>
-								<section>
-									<span class="icon style2 major fa-leaf"></span>
-									<h3>Risus</h3>
-									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit.</p>
-								</section>
-							</div>
+							</div> -->
 						</div>
 					</section>
 
 				<!-- Seven -->
-					<section class="wrapper style1 align-center">
+					<!-- <section class="wrapper style1 align-center">
 						<div class="inner medium">
 							<h2>Get in touch</h2>
 							<form method="post" action="#">
@@ -337,7 +243,7 @@
 							</form>
 
 						</div>
-					</section>
+					</section> -->
 
 				<!-- Footer -->
 					<footer class="wrapper style1 align-center">
@@ -349,7 +255,7 @@
 								<li><a href="https://www.linkedin.com/in/hsuan-chen-walter-wan-b9854970/" class="icon style2 fa-linkedin"><span class="label">LinkedIn</span></a></li>
 								<!-- <li><a href="#" class="icon style2 fa-envelope"><span class="label">Email</span></a></li> -->
 							</ul>
-							<!-- <p>&copy; Untitled. Design: <a href="https://html5up.net">HTML5 UP</a>.</p> -->
+							<p>&copy; Hsuan-chen Wan: <a href="https://html5up.net">HTML5 UP</a>.</p>
 						</div>
 					</footer>
 
