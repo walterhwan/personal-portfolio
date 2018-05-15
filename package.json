@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/walterhwan/personal-portfolio/issues"
   },
-  "homepage": "https://github.com/walterhwan/personal-portfolio#readme"
+  "homepage": "https://github.com/walterhwan/personal-portfolio#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
 }
